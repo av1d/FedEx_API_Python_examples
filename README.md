@@ -12,7 +12,5 @@ This uses the sandbox API by default. See settings to change to production.
 Please read the FedEx documentation!
 https://developer.fedex.com/api/en-us/catalog/pickup/v1/docs.html
 
-This script equires an OAuth token. See the OAuth example in this same repo.
-
 This software is neither created nor endorsed by FedEx.
 Use at your own risk.
